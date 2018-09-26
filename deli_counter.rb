@@ -1,5 +1,5 @@
 def line(arr)
-  if arr == 0 
+  if arr.length == 0 
     return "the line is empty"
-  elsif arr 
+  elsif arr.length > 0 
 end
