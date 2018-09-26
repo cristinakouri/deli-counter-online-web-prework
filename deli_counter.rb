@@ -31,7 +31,6 @@ def line(array)
       customer_locations << "#{indx + 1}. #{name}"
     end
   end
-  binding.pry
 end
 line(["Sally", "Jan", "Mary"])
 
